@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.wxget.com/2020/02/11/rust/05.borrowing/</loc>
+    <lastmod>2020-02-11</lastmod>
+  </url>  <url>
+    <loc>https://blog.wxget.com/2017/01/18/rust/04.ownership/</loc>
+    <lastmod>2020-02-11</lastmod>
+  </url>  <url>
+    <loc>https://blog.wxget.com/2017/01/17/rust/03.vscode-rust/</loc>
+    <lastmod>2020-02-11</lastmod>
+  </url>  <url>
+    <loc>https://blog.wxget.com/2017/01/17/rust/01.hello-world/</loc>
+    <lastmod>2020-02-11</lastmod>
+  </url>  <url>
     <loc>https://blog.wxget.com/2019/01/30/all-ts-types/</loc>
     <lastmod>2020-02-05</lastmod>
   </url>  <url>
@@ -31,17 +43,8 @@
     <loc>https://blog.wxget.com/2016/12/28/https-use-1/</loc>
     <lastmod>2020-02-05</lastmod>
   </url>  <url>
-    <loc>https://blog.wxget.com/2020/01/17/rust/03.vscode-rust/</loc>
-    <lastmod>2020-02-05</lastmod>
-  </url>  <url>
     <loc>https://blog.wxget.com/2020/01/17/rust/02.cargo/</loc>
     <lastmod>2020-02-05</lastmod>
-  </url>  <url>
-    <loc>https://blog.wxget.com/2020/01/18/rust/04.ownership/</loc>
-    <lastmod>2020-02-05</lastmod>
-  </url>  <url>
-    <loc>https://blog.wxget.com/2020/01/17/rust/01.hello-world/</loc>
-    <lastmod>2020-02-04</lastmod>
   </url>  <url>
     <loc>https://blog.wxget.com/2019/01/01/2018-summary/</loc>
     <lastmod>2019-01-01</lastmod>
